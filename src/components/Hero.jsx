@@ -12,7 +12,7 @@ const Hero = () => {
         <div className='w-1 sm:h-80 h-60 violet-gradient ' />
       </div> 
       <div className=''>
-        <h1 className={`${styles.heroHeadText} text-white`} > Hi, I'm  <span className='text-[#915eff]'>Ghena</span></h1>
+        <h1 className={`${styles.heroHeadText} text-white red`} > Hi, I'm  <span className='text-[#915eff]'>Ghena</span></h1>
        <p className={`${styles.heroSubText} mt-2 text-white-100`}>I'm a Front End Developer</p>
       <p className=' sm:w-1/2 mt-2  text-gray-200'>I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things</p>
     <button className='px-10 py-3 bg-gradient-to-r from-violet-500 to-fuchsia-500 rounded-lg shadow-lg mt-5 font-bold text-lg  hover:m-5'><a href={cv} >Check Resume</a></button>

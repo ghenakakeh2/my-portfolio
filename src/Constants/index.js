@@ -135,14 +135,14 @@ import {
 
       },
 
-          {
-        name: "Redux Toolkit",
-        icon: redux,
-      },
-      {
-        name:"jQuery",
-        icon:jquery,
-      },
+      //     {
+      //   name: "Redux Toolkit",
+      //   icon: redux,
+      // },
+      // {
+      //   name:"jQuery",
+      //   icon:jquery,
+      // },
       {
         name: "React JS",
         icon: reactjs,

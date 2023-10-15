@@ -55,7 +55,7 @@ const Navbar = () => {
               setactive(link.title)
             }
             }>
-            <a href={`${link.id}`}>{link.title}</a>
+            <a href={`#${link.id}`}>{link.title}</a>
           </li>
           )
             
